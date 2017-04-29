@@ -5,4 +5,48 @@ h2,
 h3,
 p {
   text-align: center;
+  font-family: "Helvetica", sans-serif;
+  font-size: 14px;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.hero {
+  background-image: url(./images/the-flatiron-building.png);
+  background-color: lightblue;
+  font-weight: bold;
+  color: white;
+}
+
+.hero a {
+  color: white;
+  font-size: 18px;
+}
+
+#intro h1 {
+  font-size: 70px;
+}
+
+#footer {
+  background-color: dimgray;
+  color: white;
+}
+
+#footer p {
+  text-align: left;
+}
+#footer .copyright {
+  font-size: 11px;
+}
+
+#footer a {
+  color: white;
 }
